@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ycmds/release-test/compare/v1.0.0...v1.1.0) (2025-11-09)
+
+
+### Features
+
+* change commiter ([3e396b9](https://github.com/ycmds/release-test/commit/3e396b9a1b07bd4d6eb53a6bdcca847f1b11072a))
+
 # 1.0.0 (2025-11-09)
 
 
