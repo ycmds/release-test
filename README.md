@@ -14,12 +14,12 @@
 </div>
 
 
-**🚀 Modern**: Built with ESM modules and TypeScript  
-**🪶 Lightweight**: Tree-shakable functions for optimal bundle size (~0.4kb)
-**💪 Type-safe**: Full TypeScript support with comprehensive type definitions  
-**⚡ Fast**: Optimized algorithms for maximum performance  
-**🎯 Focused**: Essential async utilities without bloat  
-**📦 Zero Dependencies**: No external dependencies
+**🚀 Modern**: Built with ESM modules and TypeScript    
+**🪶 Lightweight**: Tree-shakable functions for optimal bundle size (~0.4kb)   
+**💪 Type-safe**: Full TypeScript support with comprehensive type definitions    
+**⚡ Fast**: Optimized algorithms for maximum performance    
+**🎯 Focused**: Essential async utilities without bloat    
+**📦 Zero Dependencies**: No external dependencies  
 
 ```ts
 import { map } from '@macrobe/parallel';
