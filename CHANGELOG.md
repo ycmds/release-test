@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ycmds/release-test/compare/v1.1.0...v1.1.1) (2025-11-09)
+
+
+### Bug Fixes
+
+* md ([6419ab5](https://github.com/ycmds/release-test/commit/6419ab58c7b1ea991886676842f75ea298822d25))
+
 # [1.1.0](https://github.com/ycmds/release-test/compare/v1.0.0...v1.1.0) (2025-11-09)
 
 
