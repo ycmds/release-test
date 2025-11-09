@@ -30,7 +30,7 @@ const results = await map([1, 2, 3], async (num) => num * 2);
 
 ## License
 
-MIT © [Igor Suvorov](https://github.com/isuvorov)
+MIT © [Igor Suvorov](https://github.com/isuvorov) 
 
 ---
 
