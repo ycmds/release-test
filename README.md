@@ -1,4 +1,4 @@
-# MACROBE - PARALLEL
+# 🦠 MacroBE - Parallel
 
 [![NPM version](https://badgen.net/npm/v/@macrobe/parallel)](https://www.npmjs.com/package/@macrobe/parallel)
 [![Tests](https://github.com/ycmds/release-test/actions/workflows/release.yml/badge.svg)](https://github.com/ycmds/release-test/actions/workflows/release.yml)
@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <p><strong>❤️‍🔥 The BEST example of release tools</strong></p>
+  <p><strong>❤️‍🔥 The BEST modern 2026 example of release tools for nano libraries</strong></p>
 </div>
 
 
@@ -27,3 +27,11 @@ import { map } from '@macrobe/parallel';
 const results = await map([1, 2, 3], async (num) => num * 2);
 // => [2, 4, 6]
 ```
+
+## License
+
+MIT © [Igor Suvorov](https://github.com/isuvorov)
+
+---
+
+**@macrobe** - _Swimming in utilities_ 🐠
